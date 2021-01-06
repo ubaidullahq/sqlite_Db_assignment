@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SQlite_DB_Project_Assignment"
